@@ -1,3 +1,3 @@
-#Simple Root Calculator
+# Simple Root Calculator
 
-#Showcase video
+# Showcase video
