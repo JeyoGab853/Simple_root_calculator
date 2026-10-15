@@ -5,14 +5,6 @@ from decimal import Decimal
 import cmath
 import math
 
-# class FractionType():
-#     def __init__(self, numerator, denominator):
-#         self.numerator = numerator
-#         self.denominator = denominator
-#
-#     def show_fraction(self):
-#         return f'{self.numerator}/{self.denominator}'
-
 def find_divisors(number):
     rootTab = []
 
