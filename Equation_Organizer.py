@@ -245,15 +245,6 @@ def organize_equation(equation:str) -> EquationClass:
 
 
 
-# Equation2 = '-2x^2 + x-^-2'
-#
-# EQ = organize_equation(Equation2)
-
-# EQ = organize_equation(Equation2)
-#
-# print(EQ.show_all())
-
-
 
 
 
